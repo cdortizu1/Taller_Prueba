@@ -3,3 +3,4 @@
 ## Instalación de Prueba Git
 
 		sudo apt.get install git
+        sudo apt-get update
